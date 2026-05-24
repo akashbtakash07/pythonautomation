@@ -1,0 +1,37 @@
+File Organizer Automation System - Log File
+Started: 2026-05-24 11:30:00
+============================================================
+[2026-05-24 11:30:00] Application started.
+[2026-05-24 11:30:00] Target folder set to: 'C:\Users\Demo\Desktop\sample_files'
+[2026-05-24 11:30:00] Scanning folder for file statistics...
+[2026-05-24 11:30:01] Creating backup folder: 'C:\Users\Demo\Desktop\sample_files\Backup_20260524_113001'
+[2026-05-24 11:30:01] Backup completed: 11 file(s) copied to 'C:\Users\Demo\Desktop\sample_files\Backup_20260524_113001'
+[2026-05-24 11:30:02] Starting file organization...
+[2026-05-24 11:30:02] Created folder: 'CSV_Files'
+[2026-05-24 11:30:02] Moved: 'data.csv' -> 'CSV_Files/CSV_001.csv'
+[2026-05-24 11:30:02] Created folder: 'HTML_Files'
+[2026-05-24 11:30:02] Moved: 'index.html' -> 'HTML_Files/HTML_001.html'
+[2026-05-24 11:30:02] Created folder: 'JPG_Files'
+[2026-05-24 11:30:02] Moved: 'photo.jpg' -> 'JPG_Files/JPG_001.jpg'
+[2026-05-24 11:30:02] Created folder: 'JSON_Files'
+[2026-05-24 11:30:02] Moved: 'data.json' -> 'JSON_Files/JSON_001.json'
+[2026-05-24 11:30:02] Created folder: 'JS_Files'
+[2026-05-24 11:30:02] Moved: 'script.js' -> 'JS_Files/JS_001.js'
+[2026-05-24 11:30:02] Created folder: 'MD_Files'
+[2026-05-24 11:30:02] Moved: 'readme.md' -> 'MD_Files/MD_001.md'
+[2026-05-24 11:30:02] Created folder: 'PDF_Files'
+[2026-05-24 11:30:02] Moved: 'sample.pdf' -> 'PDF_Files/PDF_001.pdf'
+[2026-05-24 11:30:02] Created folder: 'PNG_Files'
+[2026-05-24 11:30:02] Moved: 'image.png' -> 'PNG_Files/PNG_001.png'
+[2026-05-24 11:30:02] Created folder: 'PY_Files'
+[2026-05-24 11:30:02] Moved: 'script.py' -> 'PY_Files/PY_001.py'
+[2026-05-24 11:30:02] Created folder: 'TXT_Files'
+[2026-05-24 11:30:02] Moved: 'document.txt' -> 'TXT_Files/TXT_001.txt'
+[2026-05-24 11:30:02] Created folder: 'XML_Files'
+[2026-05-24 11:30:02] Moved: 'config.xml' -> 'XML_Files/XML_001.xml'
+[2026-05-24 11:30:05] Organization finished. 11 file(s) moved.
+[2026-05-24 11:30:06] Scanning for empty folders...
+[2026-05-24 11:30:06] Removed empty folder: 'Backup_20260524_113001'
+[2026-05-24 11:30:06] Duplicate scan completed.
+[2026-05-24 11:30:06] Full automation completed successfully.
+[2026-05-24 11:45:00] Application closed by user.
